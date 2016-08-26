@@ -1,0 +1,65 @@
+.cancha{
+	background-color:green;
+	position: relative;
+	width: 800px;
+	height: 500px;
+	border: solid white 1px;
+}
+
+	.bordecancha{
+	border: solid, white, 1px;
+	position: absolute;
+	height: 750px;
+	width: 450px;
+	
+}
+
+.arco1 {
+	border: solid white 1px;
+	position: absolute;
+	width: 100px;
+	height: 200px;
+	top: 120px;
+	border-left: 0;
+}
+
+.arco2 {
+	border: solid white 1px;
+	position: absolute;
+	width: 100px;
+	height: 200px;
+	top: 120px;
+	right: 0px;
+	border-right: 0;
+	left: 700px
+}
+
+.circulocentral {
+	border-radius: 100px;
+	border: solid white 1px;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 120px;
+	left: 330px;
+}
+
+.pelota1 {
+	position: absolute;
+	left: 90px;
+	top: 2px;
+
+}
+
+.pelota2 {
+	position: absolute;
+	right: 100px;
+	top: 170px;
+}
+
+.pelota3 {
+	position: absolute;
+	left: 120px;
+	bottom: 240px;
+}
+
